@@ -301,7 +301,7 @@ footer .logo {
   .standout_article {
     display: flex;
     flex-direction: row;
-    place-content: center;
+    align-items: center;
   }
   .transform_article {
     flex-direction: row-reverse;
