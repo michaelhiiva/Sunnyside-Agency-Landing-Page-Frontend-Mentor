@@ -21,7 +21,7 @@ html {
 }
 
 header {
-  background: url("/images/mobile/image-header.jpg");
+  background: url("../images/mobile/image-header.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -126,19 +126,19 @@ nav {
 
 
 .transform_article__img {
-  background-image: url("/images/mobile/image-transform.jpg");
+  background-image: url("../images/mobile/image-transform.jpg");
 }
 
 .standout_article__img {
-  background-image: url("/images/mobile/image-stand-out.jpg");
+  background-image: url("../images/mobile/image-stand-out.jpg");
 }
 
 .services_article__graphic_design {
-  background-image: url("/images/mobile/image-graphic-design.jpg");
+  background-image: url("../images/mobile/image-graphic-design.jpg");
 }
 
 .services_article__photography {
-  background-image: url("/images/mobile/image-photography.jpg");
+  background-image: url("../images/mobile/image-photography.jpg");
 }
 
 .services_article__graphic_design {
@@ -320,7 +320,7 @@ footer .logo {
 
 @media screen and (min-width: 767px) {
   header {
-    background-image: url("/images/desktop/image-header.jpg");
+    background-image: url("../images/desktop/image-header.jpg");
   }
   
   .header__menu_section {
